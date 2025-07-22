@@ -1,0 +1,201 @@
+source,campaign,influencer_id,user_id,product,date,orders,revenue
+influencer,Campaign_4,14,61934,Protein Powder,2025-05-31,3,1631.17
+influencer,Campaign_1,16,96900,Protein Powder,2025-04-14,4,1187.39
+influencer,Campaign_4,4,70566,Protein Powder,2025-05-26,3,546.26
+influencer,Campaign_3,10,31689,Creatine,2025-07-08,3,450.85
+influencer,Campaign_1,3,48102,Gainer,2025-05-08,2,2915.36
+influencer,Campaign_2,9,33625,Protein Powder,2025-07-05,1,2563.9
+influencer,Campaign_4,14,56732,Omega 3,2025-06-10,1,2519.02
+influencer,Campaign_1,2,93460,Creatine,2025-06-15,2,2963.93
+influencer,Campaign_1,16,52348,Gainer,2025-04-27,4,939.05
+influencer,Campaign_1,7,47080,Protein Powder,2025-07-18,4,1315.9
+influencer,Campaign_4,19,82124,Creatine,2025-05-29,3,1445.4
+influencer,Campaign_3,19,25485,Creatine,2025-06-07,1,1394.05
+influencer,Campaign_4,20,65771,Creatine,2025-05-22,3,2052.87
+influencer,Campaign_1,1,49298,Protein Powder,2025-04-21,2,1380.6
+influencer,Campaign_4,17,33960,Multivitamin,2025-06-19,2,1478.11
+influencer,Campaign_1,12,32700,Gainer,2025-06-05,1,417.18
+influencer,Campaign_1,11,86539,Creatine,2025-06-16,3,2177.61
+influencer,Campaign_1,18,81726,Protein Powder,2025-06-03,2,1095.13
+influencer,Campaign_4,1,78866,Gainer,2025-04-26,1,2771.19
+influencer,Campaign_4,10,20975,Omega 3,2025-05-11,2,1530.27
+influencer,Campaign_4,8,19337,Gainer,2025-06-16,2,1348.32
+influencer,Campaign_4,18,43307,Protein Powder,2025-06-11,4,2962.77
+influencer,Campaign_1,17,48088,Gainer,2025-04-29,1,2148.77
+influencer,Campaign_3,13,44349,Protein Powder,2025-07-16,2,1424.93
+influencer,Campaign_1,5,60990,Protein Powder,2025-05-17,2,2818.37
+influencer,Campaign_1,18,66570,Gainer,2025-07-17,3,1410.39
+influencer,Campaign_3,1,18415,Omega 3,2025-06-03,3,1904.15
+influencer,Campaign_1,17,56540,Protein Powder,2025-04-15,1,1420.01
+influencer,Campaign_4,1,10404,Creatine,2025-05-28,2,2167.63
+influencer,Campaign_2,5,19860,Creatine,2025-07-19,1,1879.9
+influencer,Campaign_2,5,14809,Multivitamin,2025-04-30,1,950.93
+influencer,Campaign_1,9,48765,Creatine,2025-06-01,1,1936.67
+influencer,Campaign_4,1,47744,Protein Powder,2025-06-20,2,1267.04
+influencer,Campaign_2,8,24489,Multivitamin,2025-06-18,2,2385.26
+influencer,Campaign_1,18,47131,Gainer,2025-05-29,4,1814.53
+influencer,Campaign_3,17,63871,Omega 3,2025-06-05,3,2338.87
+influencer,Campaign_3,14,47441,Omega 3,2025-06-01,3,668.2
+influencer,Campaign_2,2,16949,Multivitamin,2025-04-15,2,1359.06
+influencer,Campaign_2,19,71886,Protein Powder,2025-05-31,1,1687.77
+influencer,Campaign_3,15,80173,Protein Powder,2025-06-01,1,2863.71
+influencer,Campaign_1,4,65479,Creatine,2025-05-09,1,997.26
+influencer,Campaign_1,5,83477,Multivitamin,2025-05-17,1,864.65
+influencer,Campaign_3,11,22015,Protein Powder,2025-06-29,3,1878.87
+influencer,Campaign_4,11,21637,Creatine,2025-07-14,4,791.08
+influencer,Campaign_3,3,93807,Creatine,2025-06-25,1,2927.4
+influencer,Campaign_1,19,33954,Gainer,2025-07-17,2,1052.19
+influencer,Campaign_2,6,26907,Multivitamin,2025-06-06,2,647.62
+influencer,Campaign_1,13,91818,Gainer,2025-06-26,1,1599.09
+influencer,Campaign_3,15,65645,Gainer,2025-05-20,4,464.91
+influencer,Campaign_4,4,89104,Protein Powder,2025-04-14,1,2962.89
+influencer,Campaign_4,15,92558,Omega 3,2025-04-27,2,1969.29
+influencer,Campaign_2,14,54247,Creatine,2025-06-26,2,698.9
+influencer,Campaign_3,19,15126,Multivitamin,2025-06-29,2,2323.96
+influencer,Campaign_3,13,98869,Omega 3,2025-07-07,4,1026.96
+influencer,Campaign_2,5,20267,Multivitamin,2025-06-13,1,2569.92
+influencer,Campaign_1,12,14632,Protein Powder,2025-07-09,4,1579.72
+influencer,Campaign_1,10,83794,Protein Powder,2025-07-04,3,1877.34
+influencer,Campaign_4,2,22910,Creatine,2025-06-12,1,1824.04
+influencer,Campaign_2,10,70004,Omega 3,2025-05-31,2,1940.4
+influencer,Campaign_1,13,13812,Gainer,2025-06-19,1,574.81
+influencer,Campaign_3,6,11605,Gainer,2025-07-18,2,803.73
+influencer,Campaign_3,9,23046,Gainer,2025-06-21,4,2181.8
+influencer,Campaign_4,6,51427,Gainer,2025-05-08,4,314.31
+influencer,Campaign_2,17,94471,Omega 3,2025-06-01,2,2809.32
+influencer,Campaign_4,15,20954,Gainer,2025-06-26,3,2564.17
+influencer,Campaign_2,5,16469,Omega 3,2025-05-15,3,838.67
+influencer,Campaign_4,20,46976,Protein Powder,2025-06-05,1,1948.67
+influencer,Campaign_2,6,11828,Omega 3,2025-07-11,3,1599.08
+influencer,Campaign_1,11,57362,Creatine,2025-07-16,2,1526.52
+influencer,Campaign_2,5,97958,Creatine,2025-06-08,2,1170.36
+influencer,Campaign_1,2,44387,Creatine,2025-05-20,1,307.32
+influencer,Campaign_2,9,89767,Gainer,2025-06-17,2,588.09
+influencer,Campaign_4,5,22219,Omega 3,2025-06-02,2,2818.93
+influencer,Campaign_2,11,80792,Creatine,2025-05-07,3,479.54
+influencer,Campaign_2,8,46159,Omega 3,2025-05-23,4,2410.09
+influencer,Campaign_1,11,51832,Gainer,2025-07-08,4,741.87
+influencer,Campaign_3,5,29282,Gainer,2025-05-05,2,2751.24
+influencer,Campaign_1,13,92985,Gainer,2025-07-04,4,1520.26
+influencer,Campaign_3,8,49711,Multivitamin,2025-06-14,1,2318.55
+influencer,Campaign_1,15,19184,Multivitamin,2025-07-05,1,1357.0
+influencer,Campaign_1,2,28381,Creatine,2025-06-01,3,615.62
+influencer,Campaign_4,6,93122,Protein Powder,2025-06-10,4,750.17
+influencer,Campaign_1,15,81324,Gainer,2025-04-19,3,1847.51
+influencer,Campaign_1,6,76656,Creatine,2025-06-25,3,686.45
+influencer,Campaign_2,4,29029,Creatine,2025-07-12,1,2667.27
+influencer,Campaign_2,1,56197,Multivitamin,2025-07-09,3,1322.82
+influencer,Campaign_4,13,81895,Creatine,2025-05-27,3,2452.7
+influencer,Campaign_4,5,24382,Creatine,2025-05-07,1,2244.1
+influencer,Campaign_4,19,49666,Protein Powder,2025-06-16,2,979.86
+influencer,Campaign_3,5,81315,Protein Powder,2025-05-09,4,1875.16
+influencer,Campaign_3,8,65318,Omega 3,2025-04-23,2,1960.37
+influencer,Campaign_2,13,83319,Multivitamin,2025-05-01,1,991.24
+influencer,Campaign_4,8,37306,Omega 3,2025-05-15,1,2790.75
+influencer,Campaign_2,8,10126,Gainer,2025-04-21,3,1938.13
+influencer,Campaign_1,19,54327,Creatine,2025-04-27,3,1517.27
+influencer,Campaign_1,14,32116,Creatine,2025-04-23,2,803.07
+influencer,Campaign_3,1,63173,Protein Powder,2025-06-12,3,1377.31
+influencer,Campaign_1,9,85060,Multivitamin,2025-05-09,4,2427.03
+influencer,Campaign_3,9,50738,Protein Powder,2025-06-27,2,2783.61
+influencer,Campaign_2,2,18070,Creatine,2025-04-22,2,2779.83
+influencer,Campaign_4,11,51914,Gainer,2025-06-01,2,776.24
+influencer,Campaign_2,7,80835,Protein Powder,2025-04-25,1,1278.46
+influencer,Campaign_2,11,14757,Protein Powder,2025-06-24,2,2091.55
+influencer,Campaign_4,7,80480,Protein Powder,2025-06-03,4,1419.49
+influencer,Campaign_1,8,30806,Protein Powder,2025-04-17,1,1372.76
+influencer,Campaign_4,19,34442,Creatine,2025-04-30,2,853.88
+influencer,Campaign_1,17,96444,Omega 3,2025-06-22,4,1825.07
+influencer,Campaign_2,18,43536,Protein Powder,2025-06-05,2,1715.85
+influencer,Campaign_2,17,36737,Creatine,2025-06-14,3,719.15
+influencer,Campaign_1,1,62487,Creatine,2025-05-28,3,2333.76
+influencer,Campaign_2,10,85629,Gainer,2025-04-16,3,2943.11
+influencer,Campaign_1,18,95382,Protein Powder,2025-07-14,1,1789.65
+influencer,Campaign_3,3,40678,Creatine,2025-05-11,2,1216.03
+influencer,Campaign_3,5,82258,Protein Powder,2025-04-16,4,943.09
+influencer,Campaign_4,2,83506,Gainer,2025-04-25,2,1928.63
+influencer,Campaign_4,14,94458,Creatine,2025-05-15,4,2103.83
+influencer,Campaign_4,14,76358,Protein Powder,2025-05-01,3,2009.75
+influencer,Campaign_1,1,12198,Multivitamin,2025-07-03,4,789.88
+influencer,Campaign_4,4,60460,Gainer,2025-05-01,2,2758.68
+influencer,Campaign_3,5,97955,Multivitamin,2025-07-20,3,1893.8
+influencer,Campaign_1,12,24596,Gainer,2025-06-14,4,1790.53
+influencer,Campaign_4,2,72516,Omega 3,2025-04-14,4,2931.28
+influencer,Campaign_1,12,39975,Omega 3,2025-05-09,2,1616.06
+influencer,Campaign_4,14,96143,Omega 3,2025-05-02,2,360.67
+influencer,Campaign_4,14,88344,Creatine,2025-05-17,1,1386.89
+influencer,Campaign_2,9,65029,Multivitamin,2025-07-18,2,1719.36
+influencer,Campaign_3,13,84532,Protein Powder,2025-05-13,2,1730.09
+influencer,Campaign_1,10,48243,Gainer,2025-06-14,2,1796.28
+influencer,Campaign_3,6,88411,Multivitamin,2025-04-27,1,1011.95
+influencer,Campaign_4,6,39402,Omega 3,2025-04-15,4,2009.36
+influencer,Campaign_1,7,69052,Omega 3,2025-06-26,1,1334.47
+influencer,Campaign_4,14,96145,Multivitamin,2025-05-29,3,797.8
+influencer,Campaign_2,4,97410,Omega 3,2025-06-23,1,2560.11
+influencer,Campaign_4,11,99599,Gainer,2025-05-24,3,1948.09
+influencer,Campaign_3,2,63302,Multivitamin,2025-06-28,2,664.5
+influencer,Campaign_4,1,69129,Gainer,2025-07-02,3,1906.71
+influencer,Campaign_2,11,22112,Multivitamin,2025-04-15,1,2381.46
+influencer,Campaign_4,9,25048,Multivitamin,2025-07-05,1,1637.83
+influencer,Campaign_2,11,93559,Multivitamin,2025-06-27,3,505.02
+influencer,Campaign_4,18,44020,Multivitamin,2025-06-08,3,1034.79
+influencer,Campaign_3,2,33051,Gainer,2025-06-08,3,2776.75
+influencer,Campaign_1,17,59481,Omega 3,2025-05-28,1,799.86
+influencer,Campaign_4,16,10338,Omega 3,2025-04-18,1,2349.4
+influencer,Campaign_4,5,77957,Gainer,2025-05-13,4,974.1
+influencer,Campaign_3,12,87454,Creatine,2025-06-26,1,2848.96
+influencer,Campaign_2,15,37935,Protein Powder,2025-07-06,3,2998.25
+influencer,Campaign_3,7,54813,Omega 3,2025-07-15,1,820.02
+influencer,Campaign_3,8,93441,Protein Powder,2025-04-26,1,1580.38
+influencer,Campaign_3,20,35510,Multivitamin,2025-07-04,3,2538.07
+influencer,Campaign_3,17,99613,Protein Powder,2025-06-28,3,1813.83
+influencer,Campaign_3,13,88945,Gainer,2025-06-15,3,1217.66
+influencer,Campaign_3,12,50998,Gainer,2025-07-18,1,2086.47
+influencer,Campaign_1,13,37345,Omega 3,2025-07-06,1,1962.83
+influencer,Campaign_3,2,84038,Protein Powder,2025-06-10,2,357.43
+influencer,Campaign_2,13,37788,Multivitamin,2025-06-20,4,2456.71
+influencer,Campaign_1,7,26371,Protein Powder,2025-05-21,1,1385.21
+influencer,Campaign_4,12,22984,Gainer,2025-05-27,4,2957.03
+influencer,Campaign_3,10,60072,Multivitamin,2025-04-29,1,2277.13
+influencer,Campaign_1,17,12050,Omega 3,2025-07-08,4,1075.55
+influencer,Campaign_2,4,42913,Omega 3,2025-06-15,1,1048.62
+influencer,Campaign_3,14,45400,Creatine,2025-06-03,1,2135.05
+influencer,Campaign_1,12,53001,Gainer,2025-05-22,1,541.41
+influencer,Campaign_4,6,10806,Creatine,2025-05-20,2,1922.16
+influencer,Campaign_1,13,90097,Protein Powder,2025-05-12,4,475.46
+influencer,Campaign_1,8,66979,Gainer,2025-05-20,2,1940.89
+influencer,Campaign_2,13,44157,Gainer,2025-04-15,1,895.31
+influencer,Campaign_4,17,65554,Gainer,2025-07-16,1,456.18
+influencer,Campaign_1,15,76262,Omega 3,2025-07-13,3,1912.64
+influencer,Campaign_3,17,36172,Gainer,2025-06-17,2,1626.2
+influencer,Campaign_4,17,34578,Creatine,2025-04-14,2,1981.93
+influencer,Campaign_1,15,70504,Gainer,2025-05-15,2,2622.34
+influencer,Campaign_4,11,93560,Omega 3,2025-05-16,3,649.69
+influencer,Campaign_1,9,27602,Creatine,2025-04-15,4,395.64
+influencer,Campaign_1,15,52520,Omega 3,2025-07-11,3,1059.76
+influencer,Campaign_4,15,79669,Multivitamin,2025-07-17,4,1638.86
+influencer,Campaign_1,6,19903,Omega 3,2025-06-24,1,2976.98
+influencer,Campaign_4,18,19516,Gainer,2025-05-21,1,2747.59
+influencer,Campaign_4,3,11591,Protein Powder,2025-04-15,4,1827.48
+influencer,Campaign_3,13,96231,Multivitamin,2025-05-03,4,962.27
+influencer,Campaign_1,16,93624,Gainer,2025-06-07,1,2811.24
+influencer,Campaign_3,4,96206,Protein Powder,2025-06-14,4,728.23
+influencer,Campaign_2,11,59708,Creatine,2025-06-21,3,313.89
+influencer,Campaign_2,11,87236,Protein Powder,2025-06-13,3,303.02
+influencer,Campaign_1,2,58845,Creatine,2025-04-20,4,317.24
+influencer,Campaign_3,13,70461,Protein Powder,2025-07-05,4,1001.47
+influencer,Campaign_2,13,11007,Multivitamin,2025-04-30,2,349.75
+influencer,Campaign_2,9,52207,Multivitamin,2025-05-20,4,2008.08
+influencer,Campaign_2,5,15084,Creatine,2025-05-15,4,2157.29
+influencer,Campaign_3,18,17491,Gainer,2025-05-19,1,2381.66
+influencer,Campaign_2,17,83609,Creatine,2025-05-18,2,1976.47
+influencer,Campaign_2,18,77889,Multivitamin,2025-05-19,3,2915.97
+influencer,Campaign_4,4,97266,Omega 3,2025-05-07,3,477.19
+influencer,Campaign_3,1,17813,Creatine,2025-05-04,4,2380.1
+influencer,Campaign_2,2,36029,Protein Powder,2025-06-23,4,1450.69
+influencer,Campaign_3,13,91958,Protein Powder,2025-06-23,1,1105.61
+influencer,Campaign_4,2,88797,Omega 3,2025-06-30,3,1037.8
+influencer,Campaign_4,17,54413,Gainer,2025-05-27,4,2274.43
+influencer,Campaign_1,15,91871,Multivitamin,2025-05-24,4,1373.5
+influencer,Campaign_1,5,15626,Creatine,2025-05-25,4,2255.94
+influencer,Campaign_3,2,11980,Creatine,2025-05-19,1,2059.5
