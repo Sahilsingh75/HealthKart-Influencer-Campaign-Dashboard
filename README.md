@@ -57,3 +57,5 @@ Step 4: Run the Streamlit App
 streamlit run app.py
 ```
 Open your browser at http://localhost:8501/ to view the dashboard.
+
+The dashboard is deployed on https://healthkart-dashboard.streamlit.app/ 
